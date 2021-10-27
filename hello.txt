@@ -10,6 +10,4 @@ hello git!ewe
 hello git!ew
 hello git!wew
 hello git!wew
-hello git!wew
-hello git!swe
-hello git!ps  hot-fix test
+
